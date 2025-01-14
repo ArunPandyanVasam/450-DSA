@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //  Reverse the array
     puts("\n");
 
 
